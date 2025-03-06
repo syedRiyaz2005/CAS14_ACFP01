@@ -3,8 +3,10 @@ STAR-Guruprasad
 
 **Problem statement:** 
 AI-Powered Food Quality Detection and Grading – ACFP01
+
 **Descriptions:**
 Our project is an AI-powered solution that uses image processing and machine learning to classify food quality and ensure safety. It detects contaminants, predicts spoilage, monitors storage conditions, and identifies allergens to prevent food poisoning. By providing real-time alerts and actionable insights, it empowers consumers, retailers, and farmers to make informed decisions. The system also integrates traceability and hygiene monitoring to enhance food safety across the supply chain. Ultimately, it aims to reduce food waste, improve public health, and ensure access to safe, high-quality food for everyone.
+
 **Tech Stack:**
 Python: The core programming language for implementing the AI system. Python is widely used in AI and image processing tasks due to its simplicity and availability of libraries.
 
