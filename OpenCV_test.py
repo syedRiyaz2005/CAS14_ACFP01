@@ -28,7 +28,7 @@ else:
     # Preprocess the image (scaling pixel values as required by MobileNetV2)
     image_preprocessed = preprocess_input(image_array)
     
-    # 3. Perform Prediction with the CNN
+    
     preds = model.predict(image_preprocessed)
     
     # Decode the predictions into human-readable labels
